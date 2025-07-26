@@ -11,12 +11,13 @@
 
 You can easily learn the basics with this tutorial from [Tutorials Point](https://www.tutorialspoint.com/react_native/index.htm)
 
-## Cool Stuff
+## Cool Elements
 
 Glassmorphism - Coming soon
 
-## Templates I use (Coming Soon)
+## Cool Templates
 
+[React Native Paper](https://callstack.github.io/react-native-paper/)
 
 ## My Projects
 

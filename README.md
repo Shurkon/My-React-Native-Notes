@@ -7,18 +7,18 @@
 
 [Setting up React Native with Expo](https://github.com/Shurkon/My-React-Native-Notes/wiki#setting-up-react-native-with-expo)
 
-## Learn the Basics
+## Learn the Basics 🎓 📚
 
 You can easily learn the basics with this tutorial from [Tutorials Point](https://www.tutorialspoint.com/react_native/index.htm)
 
-## Cool Elements
+## Cool Elements 😎
 
 Glassmorphism - Coming soon
 
-## Cool Templates
+## Templates 📜
 
 [React Native Paper](https://callstack.github.io/react-native-paper/)
 
-## My Projects
+## My Projects 🧏
 
 Login Panel - Coming Soon

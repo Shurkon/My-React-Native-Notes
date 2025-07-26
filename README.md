@@ -1,6 +1,9 @@
-# React Native
+# React Native ⚛️ ⚛️
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cc148e8c-6ec6-402c-8176-5e8a7c81d78e" />
 
-## Set up React Native
+[Designed by Freepik](www.freepik.com)
+
+## Set up React Native 🧱
 
 [Setting up React Native with Expo](https://github.com/Shurkon/My-React-Native-Notes/wiki#setting-up-react-native-with-expo)
 

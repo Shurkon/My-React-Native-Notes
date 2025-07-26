@@ -2,7 +2,7 @@
 
 ## Set up React Native
 
-Setting up React Native - Coming Soon
+[Setting up React Native with Expo](https://github.com/Shurkon/My-React-Native-Notes/wiki#setting-up-react-native-with-expo)
 
 ## Learn the Basics
 
